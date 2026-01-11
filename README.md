@@ -10,6 +10,7 @@ The analysis focuses on January–September 2024 and compares a baseline seasona
 ## Data Sources
 - **Bike Share Toronto Ridership Data (2024)**  
   Trip-level data published by the City of Toronto Open Data portal.
+  Raw Bike Share trip files are not included due to size constraints; processed daily datasets are provided for reproducibility.
 
 - **Daily Weather Data (Toronto City Centre)**  
   Environment and Climate Change Canada historical daily climate data.
