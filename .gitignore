@@ -1,0 +1,5 @@
+# Raw data (too large to version control)
+data/raw/
+
+# Kaggle / local artifacts
+.ipynb_checkpoints/
