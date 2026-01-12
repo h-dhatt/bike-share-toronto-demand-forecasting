@@ -5,14 +5,6 @@ This project analyzes Bike Share Toronto ridership patterns and builds short-ter
 
 The analysis focuses on January–September 2024 and compares a baseline seasonal model against an improved regression-based approach.
 
-## Dashboard Preview
-
-### Demand Overview
-![Demand Overview Dashboard](images/overview_dashboard.jpg)
-
-### Forecasting
-![Forecasting Dashboard](images/forecast_dashboard.jpg)
-
 ---
 
 ## Data Sources
@@ -78,8 +70,11 @@ An interactive Power BI report was created with two pages:
 1. **Demand Overview** – daily trends, seasonality, weekday patterns, and weather relationships
 2. **Forecasting** – comparison of actual ridership against baseline and improved forecasts, including uncertainty bands
 
-Screenshots are included in the `images/` folder.
+### Demand Overview
+![Demand Overview Dashboard](images/overview_dashboard.jpg)
 
+### Forecasting
+![Forecasting Dashboard](images/forecast_dashboard.jpg)
 ---
 
 ## Limitations
