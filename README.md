@@ -8,10 +8,10 @@ The analysis focuses on January–September 2024 and compares a baseline seasona
 ## Dashboard Preview
 
 ### Demand Overview
-![Demand Overview Dashboard](images/overview_dashboard.png)
+![Demand Overview Dashboard](images/overview_dashboard.jpg)
 
 ### Forecasting
-![Forecasting Dashboard](images/forecast_dashboard.png)
+![Forecasting Dashboard](images/forecast_dashboard.jpg)
 
 ---
 
